@@ -21,6 +21,6 @@ MERCURY LINK
 https://mercury.swin.edu.au/cos30043/s102674782/Assignment3/#/home
 
 ```
-Unfortunately I wasn't able to complete the video for the submission but did attempt to implement an 'Advanced Component'
+Unfortunately some of the functionality of the website wont work locally... It requires to be hosted on a webserver or else PHP wont execute. It has been removed from Swinburne's Mercury Server :<
 
 
