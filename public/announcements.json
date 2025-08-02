@@ -1,0 +1,33 @@
+[
+    {
+      "date": "2025-05-01",
+      "title": "New Intranet Portal Launched",
+      "content": "The company has launched a new internal portal for staff to communicate and access tools.",
+      "category": "Announcements"
+    },
+    {
+      "date": "2025-05-10",
+      "title": "Q2 Strategy Briefing Scheduled",
+      "content": "Management will present the Q2 business strategy this Friday at 10 AM in the main conference room.",
+      "category": "Meetings"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "IT Maintenance Completed",
+      "content": "All systems are back online after routine maintenance performed over the weekend.",
+      "category": "IT Updates"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Wellbeing Workshop Next Week",
+      "content": "Join the HR team for a wellbeing session focused on managing stress and work-life balance.",
+      "category": "HR"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Coffee Machine Upgrade",
+      "content": "New bean-to-cup machines have been installed in all break rooms across the building.",
+      "category": "Facilities"
+    }
+  ]
+  
