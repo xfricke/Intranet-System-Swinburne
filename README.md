@@ -1,4 +1,4 @@
-# assignment-3-project
+# Intranet-System-Swinburne
 
 ## Project setup
 ```
